@@ -48,13 +48,13 @@ All models were evaluated using:
 | Simple Polynomial Regression (5) | 207,336     | 0.100        |
 | Multi Polynomial Regression (3)  | 10,877,124,056 | -47195.615 |
 
-📌 **Conclusion:**  
+  **Conclusion:**  
 Multiple Linear Regression performed best in terms of MSE and R².  
 Polynomial models showed **severe overfitting**, especially with multiple variables.
 
 ---
-
-## 📦 Used Tools & Libraries
+ 
+##   Used Tools & Libraries
 
 - Python 3.10+
 - pandas
