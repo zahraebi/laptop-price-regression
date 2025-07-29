@@ -19,7 +19,7 @@ The dataset used in this project contains specifications and prices of various l
 - Screen-Full_HD (binary feature)
 
 The dataset is originally from [IBM Skills Network](https://coursera.org/projects/data-analysis-python) (used in IBM Data Science courses on Coursera).
-## ⚙️ Models Compared
+##   Models Compared
 
 The following models were implemented using `sklearn.pipeline.Pipeline`:
 
@@ -33,7 +33,7 @@ The following models were implemented using `sklearn.pipeline.Pipeline`:
 
 ---
 
-## 📈 Evaluation Results
+##   Evaluation Results
 
 All models were evaluated using:
 
